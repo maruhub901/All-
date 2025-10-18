@@ -1951,7 +1951,7 @@ end
 
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local Window = Fluent:CreateWindow({
-    Title = "GenGar [Premium]",
+    Title = "AnDepZai [Premium]",
     SubTitle = "[Mode]",
     TabWidth = 160,
     Size = UDim2.fromOffset(485, 370),
@@ -10957,9 +10957,9 @@ ImageButton.Parent = ScreenGui;
 ImageButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0);
 ImageButton.BorderSizePixel = 0;
 ImageButton.Position = UDim2.new(0.120833337 - 0.1, 0, 0.0952890813 + 0.01, 0);
-ImageButton.Size = UDim2.new(0, 50, 0, 50);
+ImageButton.Size = UDim2.new(0, 56, 0, 56);
 ImageButton.Draggable = true;
-ImageButton.Image = "http://www.roblox.com/asset/?id=92166357097674";
+ImageButton.Image = "http://www.roblox.com/asset/?id=122586116993940";
 UICorner.Parent = ImageButton;
 UICorner.CornerRadius = UDim.new(0, 12);
 ParticleEmitter.Parent = ImageButton;
